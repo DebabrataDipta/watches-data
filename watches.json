@@ -1,0 +1,17 @@
+[
+    { "brand": "Apple", "model": "Apple Watch Series 7", "OS": "watchOS 8", "price": 399.99 },
+    { "brand": "Apple", "model": "Apple Watch SE", "OS": "watchOS 8", "price": 279.99 },
+    
+    { "brand": "Samsung", "model": "Galaxy Watch 4", "OS": "Wear OS", "price": 349.99 },
+    { "brand": "Samsung", "model": "Galaxy Watch Active 2", "OS": "Tizen", "price": 249.99 },
+    
+    { "brand": "Fitbit", "model": "Fitbit Sense", "OS": "Fitbit OS", "price": 299.99 },
+    { "brand": "Fitbit", "model": "Fitbit Versa 3", "OS": "Fitbit OS", "price": 229.99 },
+    
+    { "brand": "Garmin", "model": "Garmin Venu 2", "OS": "Garmin OS", "price": 399.99 },
+    { "brand": "Garmin", "model": "Garmin Forerunner 945", "OS": "Garmin OS", "price": 599.99 },
+    
+    { "brand": "Huawei", "model": "Huawei Watch GT 3", "OS": "Lite OS", "price": 249.99 },
+    { "brand": "Huawei", "model": "Huawei Watch Fit", "OS": "Lite OS", "price": 129.99 }
+  ]
+  
